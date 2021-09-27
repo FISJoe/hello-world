@@ -1,0 +1,3 @@
+octopus
+github
+artifactory
